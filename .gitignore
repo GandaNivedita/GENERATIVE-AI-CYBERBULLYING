@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Caches & generated artifacts
+cache/
+__pycache__/
+*.pyc
+
+# Large/intermediate data — generated, regenerable (keep data/raw/ tracked)
+data/processed/
+
+# Results can be regenerated
+results/*.tmp
+
+# Python / tooling
+.venv/
+.pytest_cache/
+*.egg-info/

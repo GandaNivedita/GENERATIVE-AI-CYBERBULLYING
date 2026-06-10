@@ -1,0 +1,6 @@
+style,n_hard,acc_hard,acc_easy,acc_overall
+zero_shot,123,0.4309,0.3711,0.3833
+few_shot,123,0.3089,0.3795,0.365
+cot,123,0.3577,0.3522,0.3533
+persona,123,0.4472,0.3878,0.4
+few_shot_cot,123,0.252,0.3396,0.3217
