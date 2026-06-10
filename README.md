@@ -1,5 +1,5 @@
-# Cyberbullying Detection — Prompt Engineering + Rule-Based Hybri
-# Generative AI for Cyberbullying Detection
+# Cyberbullying Detection — Prompt Engineering + Rule-Based Hybrid model
+
 
 ## 📖 Overview
 This repository contains the research framework, datasets, and experimental configurations for **Generative AI-driven cyberbullying detection**.  
